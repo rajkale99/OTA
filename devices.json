@@ -1,0 +1,68 @@
+[
+    {
+      "brand": "ASUS",
+      "name": "ZenFone Max Pro M1",
+      "codename": "X00T",
+      "maintainer_name": "LordShenron",
+      "maintainer_xda": "null",
+      "maintainer_country": "IND",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
+    },
+      {
+      "brand": "LeEco",
+      "name": "LeEco Le 2",
+      "codename": "s2",
+      "maintainer_name": "CakesTwix",
+      "maintainer_xda": "null",
+      "maintainer_country": "UKR",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
+    },
+      {
+      "brand": "Moto",
+      "name": "Moto G5S+",
+      "codename": "sanders",
+      "maintainer_name": "ArmSM",
+      "maintainer_xda": "null",
+      "maintainer_country": "ALB",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
+    },
+      {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Mi A2",
+      "codename": "jasmine_sprout",
+      "maintainer_name": "Marcos Almeida",
+      "maintainer_xda": "null",
+      "maintainer_country": "BR",
+      "xda_thread": "",
+      "active": false,
+      "donation_link":""
+    },
+      {
+      "brand": "Xiaomi",
+      "name": "Redmi Note 5 PRO",
+      "codename": "whyred",
+      "maintainer_name": "DarkStar",
+      "maintainer_xda": "null",
+      "maintainer_country": "IND",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
+    },
+      {
+      "brand": "Xiaomi",
+      "name": "Redmi Note 9 PRO",
+      "codename": "miatoll",
+      "maintainer_name": "A9ito",
+      "maintainer_xda": "null",
+      "maintainer_country": "ID",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":""
+    }
+  ]
